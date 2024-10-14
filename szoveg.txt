@@ -1,3 +1,1 @@
-Hello World2
-negyedik
-hatokdik
+Hello World
